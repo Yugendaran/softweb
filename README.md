@@ -414,7 +414,7 @@ You can get information about an order you placed on the Apple Online Store thro
 
 ### PRODUCT PAGE OUTPUT:
 
-![image](https://github.com/Yugendaran/softweb/assets/128135616/503ed7e0-0844-40bf-9ba9-924645f858ef)
+![image](https://github.com/Yugendaran/softweb/assets/128135616/53d92215-b001-47af-a0f3-33b536046b38)
 
 
 ### PEOPLE PAGE OUTPUT:
