@@ -409,7 +409,7 @@ You can get information about an order you placed on the Apple Online Store thro
 
 ### HOME PAGE OUTPUT:
 
-![image](https://github.com/Yugendaran/softweb/assets/128135616/a013c043-06e2-495c-9e47-84116d9f7323)
+![image](https://github.com/Yugendaran/softweb/assets/128135616/10c65de1-baf7-483c-8c84-35065ba1067a)
 
 
 ### PRODUCT PAGE OUTPUT:
